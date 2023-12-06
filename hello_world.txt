@@ -1,1 +1,1 @@
-test 2 for Git
+test 2 for Github
